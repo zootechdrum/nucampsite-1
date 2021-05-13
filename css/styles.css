@@ -19,7 +19,7 @@ footer {
     padding: 20px 0;
 }
 
-.navbar {
+.navbar-dark {
      background-color: #901CAD;
 }
 
@@ -36,7 +36,13 @@ footer {
     min-height: 200px;
 }
 
-.site-footer{
+.site-footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
 }
